@@ -1,0 +1,7 @@
+.prettierrc
+package-lock.json
+package.json
+/css/in.css
+/css/style1.css
+tailwind.config.ts
+node_modules/
